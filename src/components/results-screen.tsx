@@ -102,7 +102,7 @@ export function ResultsScreen({ userAnswers, questions, onRestart }: ResultsScre
         </div>
       </CardContent>
       <CardFooter className="flex justify-center p-4 border-t">
-        <Button onClick={onRestart} className="bg-purple-500">Try Again</Button>
+        <Button onClick={onRestart} className="bg-purple-500 hover:bg-purple-200">Try Again</Button>
       </CardFooter>
     </Card>
   )

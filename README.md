@@ -2,7 +2,7 @@
 
 A responsive React application that helps users practice sentence construction by filling in blanks with appropriate words in a timed quiz format.
 
-![Sentence Construction Tool](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-04-12%20161737-4cEIN88XxKYnKibmCsNMF1D1ywQp3h.png)
+![Sentence Construction Tool](./public/Screenshot%202025-04-13%20183319.png)
 
 ## Features
 
