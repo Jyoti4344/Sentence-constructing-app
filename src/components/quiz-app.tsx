@@ -19,7 +19,7 @@ export function QuizApp() {
   useEffect(() => {
     const fetchQuestions = async () => {
       try {
-        const response = await fetch("http://localhost:3001/data")
+        const response = await fetch("https://sentence-constructing-app.onrender.com/data")
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`)
         }
